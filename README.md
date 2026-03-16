@@ -5,7 +5,7 @@ Challenge a friend or test your skills against the computer!
 Features a clean interface, turn timer, scoreboard, and two game modes.
 
 <p align="center">
-  <img src="images/Screen-xo-3.png" alt="واجهة اللعبة" width="400"/>
+  <img src="Screen-xo-3.png" alt="واجهة اللعبة" width="400"/>
   <img src="https://github.com/Areen-0/TicTacToe-XO/blob/main/Screen-xo-2.png" alt="وضع اللعب ضد الكمبيوتر" width="400"/>
   <img src="images/Screen-xo-1.png" alt="شاشة الفوز" width="400"/>
 </p>
