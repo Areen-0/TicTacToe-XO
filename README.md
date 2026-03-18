@@ -57,6 +57,9 @@ These skills form a solid foundation for any future programming project, whether
 
 What I cared about most was writing clean, well-organized code that’s easy to modify later.
 
+📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
 🌟 Show some support
 
 If you like this project, give it a ⭐ on GitHub!
